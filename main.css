@@ -1,0 +1,24 @@
+div.score{
+    color: #46A07E;
+    display: inline;
+    margin: auto 100px;
+    font-family: 'Nova Flat', cursive;
+    font-size: 30px;
+}
+
+span#float-right{
+    margin-right: 100px;
+    float: right;
+}
+
+canvas {
+    display: block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: 10px ridge burlywood;
+    border-bottom: 10px ridge burlywood;
+}
